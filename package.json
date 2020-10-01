@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heyma-io/namebot.git"
+    "url": "git+https://github.com/heyma-io/nawes.git"
   },
   "author": "heyma",
   "license": " GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/heyma-io/namebot/issues"
+    "url": "https://github.com/heyma-io/nawes/issues"
   },
-  "homepage": "https://github.com/heyma-io/namebot#readme"
+  "homepage": "https://github.com/heyma-io/nawes#readme"
 }
