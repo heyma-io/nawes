@@ -26,24 +26,24 @@ const randomName = nawes({ length: 5 }); // this will return a random name with 
 
 ### Options
 
-#### length
+- #### length
 
-- Type: `number`
-- Required: `true`
+  - Type: `number`
+  - Required: `true`
 
-The length of string that has to be generated.
+  The length of string that has to be generated.
 
-#### customWord
+- #### customWord
 
-- Required: `false`
-- Default: `""`
+  - Required: `false`
+  - Default: `""`
 
-A string of characters that in a certain way you want it to have an influence on name generation. The influence is just probabilistic.
+  A string of characters that in a certain way you want it to have an influence on name generation. The influence is just probabilistic.
 
-#### weight
+- #### weight
 
-- Type: `number`
-- Required: `false`
-- Default: `1`
+  - Type: `number`
+  - Required: `false`
+  - Default: `1`
 
-This express the weight that you want your custom string has an influence on the generated name. The influence is just probabilistic.
+  This express the weight that you want your custom string has an influence on the generated name. The influence is just probabilistic.
