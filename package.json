@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/heyma-io/nawes/issues"
   },
-  "homepage": "https://github.com/heyma-io/nawes#readme"
+  "homepage": "https://github.com/heyma-io/nawes#readme",
+  "keywords": [
+    "random",
+    "generator",
+    "name",
+    "random-generator",
+    "string-generator"
+  ]
 }
