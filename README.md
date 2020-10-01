@@ -1,6 +1,6 @@
 # NAWES
 
-Nawes is a random names generator.
+Nawes is a random name generator.
 
 Sometimes we just need a set of name from which take inspiration for the ultimate name to create.
 
