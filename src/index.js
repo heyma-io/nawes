@@ -32,7 +32,7 @@ const getAlphabet = () => ({
   },
 });
 
-const generateName = ({ length = 5, customWord = "", weight = 1 }) => {
+const generateName = ({ length, customWord = "", weight = 1 }) => {
   const alphabet = getAlphabet();
   alphabet.customize(customWord, weight);
 
