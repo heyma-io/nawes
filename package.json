@@ -1,5 +1,5 @@
 {
-  "name": "@heyma-io/nawes",
+  "name": "@heyma/nawes",
   "version": "1.0.0",
   "description": "A random name generator",
   "main": "./src/index.js",
